@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+auto_push.log
+plan.md

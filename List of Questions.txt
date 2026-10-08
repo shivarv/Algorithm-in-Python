@@ -1,0 +1,212 @@
+Tier 1: Core Fundamentals & High-Frequency Patterns (1–20)
+
+Number of Islands: https://leetcode.com/problems/number-of-islands/ – BFS/DFS matrix traversal
+
+LRU Cache: https://leetcode.com/problems/lru-cache/ – Design (Hash Table + Doubly Linked List)
+
+Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/ – Two Pointers / Stack
+
+Merge Intervals: https://leetcode.com/problems/merge-intervals/ – Sorting & Intervals
+
+Serialize and Deserialize Binary Tree: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ – Trees & Design
+
+Word Break: https://leetcode.com/problems/word-break/ – Dynamic Programming
+
+Clone Graph: https://leetcode.com/problems/clone-graph/ – Graph BFS/DFS
+
+Implement Trie (Prefix Tree): https://leetcode.com/problems/implement-trie-prefix-tree/ – Design / Strings
+
+Sliding Window Maximum: https://leetcode.com/problems/sliding-window-maximum/ – Monotonic Queue / Deque
+
+Subarray Sum Equals K: https://leetcode.com/problems/subarray-sum-equals-k/ – Prefix Sum + Hash Map
+
+Two Sum: https://leetcode.com/problems/two-sum/ – Hash Table
+
+Longest Substring Without Repeating Characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/ – Sliding Window
+
+Container With Most Water: https://leetcode.com/problems/container-with-most-water/ – Two Pointers
+
+3Sum: https://leetcode.com/problems/3sum/ – Two Pointers
+
+Minimum Window Substring: https://leetcode.com/problems/minimum-window-substring/ – Sliding Window
+
+Next Permutation: https://leetcode.com/problems/next-permutation/ – Array Manipulation
+
+Longest Consecutive Sequence: https://leetcode.com/problems/longest-consecutive-sequence/ – Hashing
+
+Product of Array Except Self: https://leetcode.com/problems/product-of-array-except-self/ – Prefix/Suffix Products
+
+Group Anagrams: https://leetcode.com/problems/group-anagrams/ – Hash Table / Strings
+
+Valid Parentheses: https://leetcode.com/problems/valid-parentheses/ – Stack
+
+
+
+Tier 2: Arrays, Strings & Two Pointers (21–40)
+Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/ – Two Pointers / DP
+
+Valid Palindrome: https://leetcode.com/problems/valid-palindrome/ – Two Pointers
+
+Longest Repeating Character Replacement: https://leetcode.com/problems/longest-repeating-character-replacement/ – Sliding Window
+
+String to Integer (atoi): https://leetcode.com/problems/string-to-integer-atoi/ – String Parsing
+
+Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/ – String Manipulation
+
+Expressive Words: https://leetcode.com/problems/expressive-words/ – Two Pointers / Strings
+
+Find and Replace in String: https://leetcode.com/problems/find-and-replace-in-string/ – String Manipulation
+
+Spiral Matrix: https://leetcode.com/problems/spiral-matrix/ – Matrix Traversal
+
+Rotate Image: https://leetcode.com/problems/rotate-image/ – Matrix Manipulation
+
+Set Matrix Zeroes: https://leetcode.com/problems/set-matrix-zeroes/ – Matrix In-place
+
+Valid Sudoku: https://leetcode.com/problems/valid-sudoku/ – Hash Set / Matrix
+
+Game of Life: https://leetcode.com/problems/game-of-life/ – Matrix Simulation
+
+Multiply Strings: https://leetcode.com/problems/multiply-strings/ – Math / Simulation
+
+Palindrome Number: https://leetcode.com/problems/palindrome-number/ – Math
+
+Pow(x, n): https://leetcode.com/problems/powx-n/ – Recursion / Binary Exponentiation
+
+Reconstruct Itinerary: https://leetcode.com/problems/reconstruct-itinerary/ – Eulerian Path / DFS
+
+Daily Temperatures: https://leetcode.com/problems/daily-temperatures/ – Monotonic Stack
+
+Largest Rectangle in Histogram: https://leetcode.com/problems/largest-rectangle-in-histogram/ – Monotonic Stack
+
+Evaluate Reverse Polish Notation: https://leetcode.com/problems/evaluate-reverse-polish-notation/ – Stack
+
+Basic Calculator II: https://leetcode.com/problems/basic-calculator-ii/ – Stack / Parsing
+
+
+Tier 3: Trees, Graphs & Search (41–60)
+Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/ – BFS
+
+Lowest Common Ancestor of a Binary Tree: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ – Recursion / DFS
+
+Course Schedule: https://leetcode.com/problems/course-schedule/ – Topological Sort / Directed Graph
+
+Word Search II: https://leetcode.com/problems/word-search-ii/ – Backtracking + Trie
+
+Pacific Atlantic Water Flow: https://leetcode.com/problems/pacific-atlantic-water-flow/ – Multi-source BFS/DFS
+
+Binary Tree Maximum Path Sum: https://leetcode.com/problems/binary-tree-maximum-path-sum/ – Tree DP / DFS
+
+Alien Dictionary: https://leetcode.com/problems/alien-dictionary/ – Topological Sort
+
+Graph Valid Tree: https://leetcode.com/problems/graph-valid-tree/ – Union-Find / DFS
+
+Network Delay Time: https://leetcode.com/problems/network-delay-time/ – Dijkstra’s Algorithm
+
+Evaluate Division: https://leetcode.com/problems/evaluate-division/ – Graph / Union-Find
+
+Invert Binary Tree: https://leetcode.com/problems/invert-binary-tree/ – Tree DFS/BFS
+
+Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/ – Tree Recursion
+
+Binary Tree Right Side View: https://leetcode.com/problems/binary-tree-right-side-view/ – BFS / DFS
+
+Count Complete Tree Nodes: https://leetcode.com/problems/count-complete-tree-nodes/ – Binary Search on Trees
+
+Course Schedule II: https://leetcode.com/problems/course-schedule-ii/ – Topological Sort
+
+Redundant Connection: https://leetcode.com/problems/redundant-connection/ – Union-Find
+
+Accounts Merge: https://leetcode.com/problems/accounts-merge/ – Union-Find / DFS
+
+All Nodes Distance K in Binary Tree: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ – Graph + BFS
+
+Validate Binary Search Tree: https://leetcode.com/problems/validate-binary-search-tree/ – Tree Recursion
+
+Kth Smallest Element in a BST: https://leetcode.com/problems/kth-smallest-element-in-a-bst/ – In-order Traversal
+
+
+
+Tier 4: Dynamic Programming & Recursion (61–80)
+Longest Increasing Subsequence: https://leetcode.com/problems/longest-increasing-subsequence/ – DP / Binary Search
+
+Coin Change: https://leetcode.com/problems/coin-change/ – 1D Dynamic Programming
+
+Edit Distance: https://leetcode.com/problems/edit-distance/ – 2D Dynamic Programming
+
+Unique Paths: https://leetcode.com/problems/unique-paths/ – Math / DP
+
+Partition Equal Subset Sum: https://leetcode.com/problems/partition-equal-subset-sum/ – 0/1 Knapsack DP
+
+Target Sum: https://leetcode.com/problems/target-sum/ – DP / Subset Sum
+
+Burst Balloons: https://leetcode.com/problems/burst-balloons/ – Interval DP
+
+Maximal Square: https://leetcode.com/problems/maximal-square/ – 2D Matrix DP
+
+Split Array Largest Sum: https://leetcode.com/problems/split-array-largest-sum/ – Binary Search on Answer
+
+Decode String: https://leetcode.com/problems/decode-string/ – Stack
+
+Climbing Stairs: https://leetcode.com/problems/climbing-stairs/ – 1D DP / Fibonacci
+
+House Robber: https://leetcode.com/problems/house-robber/ – 1D DP
+
+House Robber II: https://leetcode.com/problems/house-robber-ii/ – 1D DP (Circular)
+
+Maximum Subarray: https://leetcode.com/problems/maximum-subarray/ – Kadane's Algorithm / DP
+
+Maximum Product Subarray: https://leetcode.com/problems/maximum-product-subarray/ – DP
+
+Jump Game: https://leetcode.com/problems/jump-game/ – Greedy / DP
+
+Jump Game II: https://leetcode.com/problems/jump-game-ii/ – Greedy / BFS
+
+Gas Station: https://leetcode.com/problems/gas-station/ – Greedy
+
+Unique Paths II: https://leetcode.com/problems/unique-paths-ii/ – 2D DP
+
+Minimum Path Sum: https://leetcode.com/problems/minimum-path-sum/ – 2D DP
+
+
+
+Tier 5: Linked Lists, Heaps, Design & Advanced (81–100)
+Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/ – Linked List Manipulation
+
+Linked List Cycle II: https://leetcode.com/problems/linked-list-cycle-ii/ – Fast & Slow Pointers
+
+Add Two Numbers: https://leetcode.com/problems/add-two-numbers/ – Linked List Math
+
+Copy List with Random Pointer: https://leetcode.com/problems/copy-list-with-random-pointer/ – Hash Map / Linked List
+
+Reorder List: https://leetcode.com/problems/reorder-list/ – Linked List Pointers
+
+Reverse Nodes in k-Group: https://leetcode.com/problems/reverse-nodes-in-k-group/ – Linked List Recursion
+
+Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/ – Linked List Pointer
+
+Find Median from Data Stream: https://leetcode.com/problems/find-median-from-data-stream/ – Two Heaps
+
+Merge k Sorted Lists: https://leetcode.com/problems/merge-k-sorted-lists/ – Priority Queue / Min-Heap
+
+Insert Delete GetRandom O(1): https://leetcode.com/problems/insert-delete-getrandom-o1/ – Design
+
+Snapshot Array: https://leetcode.com/problems/snapshot-array/ – Design / Binary Search
+
+Design Search Autocomplete System: https://leetcode.com/problems/design-search-autocomplete-system/ – Trie + Sorting
+
+Kth Smallest Element in a Sorted Matrix: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ – Heap / Binary Search
+
+LFU Cache: https://leetcode.com/problems/lfu-cache/ – Advanced Design
+
+Meeting Rooms II: https://leetcode.com/problems/meeting-rooms-ii/ – Min-Heap / Intervals
+
+Expression Add Operators: https://leetcode.com/problems/expression-add-operators/ – Backtracking
+
+The Skyline Problem: https://leetcode.com/problems/the-skyline-problem/ – Segment Tree / Priority Queue
+
+Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/ – Modified Binary Search
+
+Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ – Binary Search
+
+Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/ – Advanced Binary Search
