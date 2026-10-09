@@ -28,6 +28,8 @@ class Solution:
 
 #more clean approach
 
+#in gfg problem s1 = [3, 2, 1, 1, 1], s2 = [4, 3, 2], s3 = [2, 5, 4, 1] this is the stack..but the index[0] is 3, not 1 ..
+#the array looks skewed here, thats why sum1 -= s1[i] works.. essentially it gotta be s1.pop()
 def maxEqualSum(self, s1: list[int], s2: list[int], s3: list[int]) -> int:
         sum1, sum2, sum3 = sum(s1), sum(s2), sum(s3)
         i, j, k = 0, 0, 0
@@ -41,7 +43,7 @@ def maxEqualSum(self, s1: list[int], s2: list[int], s3: list[int]) -> int:
 
             # Greedily pop the top item from the stack with the largest sum
             if sum1 >= sum2 and sum1 >= sum3:
-                sum1 -= s1[i]
+                sum1 -= s1[i] 
                 i += 1
             elif sum2 >= sum1 and sum2 >= sum3:
                 sum2 -= s2[j]
