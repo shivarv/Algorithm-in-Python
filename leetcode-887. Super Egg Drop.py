@@ -25,6 +25,7 @@ class Solution:
         return memo[eggs][floors]
         
 class Solution:
+
     def superEggDrop(self, k: int, n: int) -> int:
         memo = [[-1] * (n + 1) for _ in range(k + 1)]
     
@@ -39,7 +40,6 @@ class Solution:
             return floors
         if memo[eggs][floors] != -1:
             return memo[eggs][floors]
-        minOutput = sys.maxsize
         
         minOutput = sys.maxsize
         low = 1
